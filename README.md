@@ -200,40 +200,6 @@ const alvaroNeto = {
   </tr>
 </table>
 
-
-<hr/>
-
-<h2>📈 Atividade & gráficos</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alvarmiguelmart&bg_color=0B1220&color=C9D1D9&line=FF3B30&point=FF3B30&area=true&hide_border=true"
-    alt="Gráfico de atividade"
-  />
-</p>
-
-<hr/>
-
-<h2>🌍 Aberto a oportunidades</h2>
-
-<pre>
-Cargos:
-- Engenheiro de Software
-- Desenvolvedor Full Stack
-- Backend (Javascript / Node / Nest)
-- Frontend (React / Next.js)
-
-Modelo:
-- Remoto
-- Híbrido
-- Presencial
-
-Local:
-Curitiba, PR — Brasil
-</pre>
-
-<hr/>
-
 <h2>💬✨ Vamos nos conectar</h2>
 
 <p align="center">
